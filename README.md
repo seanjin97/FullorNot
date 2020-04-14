@@ -3,4 +3,4 @@ A Telegram bot that helps you plan your study schedule by providing crowd level 
 
 For more information, refer to our website! https://fullornot.herokuapp.com/
 
-![] smt203_logo2.png
+![](smt203_logo2.png)
